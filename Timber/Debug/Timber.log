@@ -1,1 +1,39 @@
-﻿  Timber.vcxproj -> C:\Users\97ran\Desktop\Timber-Man\Debug\Timber.exe
+﻿  Timber.cpp
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(242): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(243): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(244): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(245): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(246): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(310): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(332): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(389): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(393): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(413): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(417): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(437): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(440): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(457): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(461): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(482): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\97ran\desktop\timber-man\timber\timber.cpp(98): warning C4101: 'gameTimeTotal': unreferenced local variable
+  Timber.vcxproj -> C:\Users\97ran\Desktop\Timber-Man\Debug\Timber.exe
