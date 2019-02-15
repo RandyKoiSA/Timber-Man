@@ -1,4 +1,5 @@
-﻿  Timber.cpp
+﻿  pch.cpp
+  Timber.cpp
 c:\users\97ran\desktop\timber-man\timber\timber.cpp(242): warning C4305: 'argument': truncation from 'double' to 'T'
           with
           [
