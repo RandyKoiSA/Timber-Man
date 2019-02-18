@@ -16,4 +16,4 @@ Make sure to include the include files for SFML and link the libraries from the 
  * Randy Le (97Randy.le@gmail.com)
 
 ### License
-This project is licenseduner the MIT License - see the [LINCESE.md](https://github.com/RandyKoiSA/Timber-Man/blob/master/LICENSE) file for details.
+This project is license under the MIT License - see the [LINCENSE.md](https://github.com/RandyKoiSA/Timber-Man/blob/master/LICENSE) file for details.
